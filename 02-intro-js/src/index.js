@@ -1,2 +1,1 @@
-// Desestructuración
-// Asignación Desestructurante
+console.log( 'hola' );
